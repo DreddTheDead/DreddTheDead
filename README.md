@@ -1,7 +1,7 @@
-I be Khaliff Robinson
+I be Dredd.
 👀 I’m interested in 👀
 🌱 I’m currently learning 🌱
-📫 How to reach me 2022robk1@webbstudent.org
+📫 How to reach me 
 📫
 <!---
 DreddTheDead/DreddTheDead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
